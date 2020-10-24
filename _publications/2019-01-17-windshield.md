@@ -6,7 +6,7 @@ excerpt: ''
 date: 2019-01-17
 venue: 'Scientific Reports'
 paperurl: 'https://www.nature.com/articles/s41598-018-36282-7'
-citation: 'Bartos, M., Park, H., Zhou, T., Kerkez, B., & Vasudevan, R. (2019). Windshield wipers on connected vehicles produce high-accuracy rainfall maps. Scientific Reports, 9(1). doi:10.1038/s41598-018-36282-7'
+citation: '<b>Bartos, M.</b>, Park, H., Zhou, T., Kerkez, B., & Vasudevan, R. (2019). Windshield wipers on connected vehicles produce high-accuracy rainfall maps. <i>Scientific Reports</i>, 9(1). doi:10.1038/s41598-018-36282-7'
 ---
 
 <!-- This paper is about the number 1. The number 2 is left for future work. -->

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Future Water Systems Lab"
+title: "About us"
 excerpt: ""
 author_profile: true
 redirect_from: 

@@ -6,7 +6,7 @@ excerpt: ''
 date: 2019-03-28
 venue: 'Advances in Water Resources'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0309170818307322'
-citation: 'Bartos, M., & Kerkez, B. (2019). Hydrograph peak-shaving using a graph-theoretic algorithm for placement of hydraulic control structures. Advances in Water Resources, 127, 167–179. doi:10.1016/j.advwatres.2019.03.016'
+citation: '<b>Bartos, M.</b>, & Kerkez, B. (2019). Hydrograph peak-shaving using a graph-theoretic algorithm for placement of hydraulic control structures. <i>Advances in Water Resources</i>, 127, 167–179. doi:10.1016/j.advwatres.2019.03.016'
 ---
 
 <!-- This paper is about the number 1. The number 2 is left for future work. -->

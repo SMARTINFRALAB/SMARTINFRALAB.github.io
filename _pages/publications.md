@@ -5,12 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+See <a href="{{site.author.googlescholar}}">Google Scholar</a> for a full list of publications.
 
 {% include base_path %}
 
+## Journal articles
+
+<ol>
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  <li>{{post.citation}}</li>
 {% endfor %}
+</ol>

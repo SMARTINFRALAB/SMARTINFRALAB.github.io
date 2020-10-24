@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Software"
+permalink: /software/
+author_profile: true
+---
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+{% include base_path %}
+
+
+{% for post in site.software %}
+  {% include archive-single.html %}
+{% endfor %}

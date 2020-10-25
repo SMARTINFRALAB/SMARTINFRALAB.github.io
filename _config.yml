@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Future Water Lab"
+name                     : &name "Future Water Systems Lab"
 description              : &description "..."
 url                      : https://future-water.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Future Water Lab"
+  name             : "Future Water Systems Lab"
   avatar           : "logo-simple.png"
   bio              : "Building the next generation of intelligent water systems"
   location         : 
@@ -194,7 +194,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -205,14 +205,14 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   # _teaching
   - scope:
       path: ""
       type: teaching
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: false
       comments: false
   # _publications
@@ -221,7 +221,7 @@ defaults:
       type: publications
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: false
       comments: false
   # _software
@@ -230,7 +230,7 @@ defaults:
       type: software
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: false
       comment: false
 

@@ -400,3 +400,81 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   Custom
+   ========================================================================== */
+
+.page__col-wrap {
+    @include full();
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+.page__lcol {
+
+    @include breakpoint($small-only) {
+        margin-left: 1em;
+        margin-right: 1em;
+        margin-bottom: 2em;
+    }
+
+    @include breakpoint($medium) {
+        @include span(3.5 of 12);
+    }
+
+    @include breakpoint($large) {
+        @include span(3.5 of 12);
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        margin: 0em 0 0.5em;
+        line-height: 1.2;
+        font-family: $header-font-family;
+        color: $header-color;
+        font-weight: 500;
+        border-bottom: 0px;
+        padding-bottom: 0em;
+    }
+}
+
+.page__rcol {
+
+    @include breakpoint($small-only) {
+        margin-bottom: 2em;
+    }
+
+    @include breakpoint($medium) {
+        @include span(8.5 of 12 last);
+    }
+
+    @include breakpoint($large) {
+        @include span(8.5 of 12 last);
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        margin: 0em 0 0.5em;
+        line-height: 1.2;
+        font-family: $header-font-family;
+        color: $header-color;
+        font-weight: 500;
+        border-bottom: 0px;
+        padding-bottom: 0em;
+    }
+
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.people__avatar {
+    display: block;
+    width: auto;
+    height: auto;
+
+    img {
+        border-radius: 50%;
+        padding: 5px;
+        border: 1px solid $border-color;
+    }
+}
+

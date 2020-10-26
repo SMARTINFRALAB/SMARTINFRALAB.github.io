@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Future Water Systems Lab"
 title_separator          : "-"
 name                     : &name "Future Water Systems Lab"
 description              : &description "..."

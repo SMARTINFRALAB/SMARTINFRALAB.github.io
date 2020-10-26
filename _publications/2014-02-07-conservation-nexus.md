@@ -5,6 +5,7 @@ permalink: /publication/2014-02-07-conservation-nexus
 excerpt: ''
 date: 2014-02-07
 venue: 'Environmental Science and Technology'
+type: 'article'
 paperurl: 'https://pubs.acs.org/doi/full/10.1021/es4033343'
 citation: '<b>Bartos, M.</b> & Chester, M. (2014). The conservation nexus: valuing interdependent water and energy savings in Arizona. <i>Environmental Science & Technology</i>, 48(4), 2139–2149. doi:10.1021/es4033343'
 ---

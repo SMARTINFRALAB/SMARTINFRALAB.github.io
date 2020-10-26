@@ -16,9 +16,9 @@ author_profile: false
 <div class="page__rcol">
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        <a href="{{ post.link }}">{{ title }}</a> <a href="https://github.com/{{ post.owner }}/{{ post.repo }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+        <a href="https://github.com/{{ post.owner }}/{{ post.repo }}" rel="permalink">{{ post.title }}</a>
       {% endif %}
     </h2>
     {% if post.description %}

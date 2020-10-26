@@ -6,5 +6,6 @@ collection: software
 name: perfectcell
 owner: "open-storm"
 repo: "perfect-cell"
+image: "/images/sensors_mini.png"
 ---
 

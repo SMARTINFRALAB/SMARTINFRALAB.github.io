@@ -6,5 +6,6 @@ collection: software
 name: pipedream
 owner: "mdbartos"
 repo: "pipedream"
+image: "/images/pipedream_plot.png"
 ---
 

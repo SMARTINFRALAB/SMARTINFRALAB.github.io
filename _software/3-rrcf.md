@@ -6,5 +6,6 @@ collection: software
 name: rrcf
 owner: "kLabUM"
 repo: "rrcf"
+image: "/images/rrcf_batch.png"
 ---
 

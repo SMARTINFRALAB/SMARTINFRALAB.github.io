@@ -6,5 +6,6 @@ collection: software
 name: pysheds
 owner: "mdbartos"
 repo: "pysheds"
+image: "/images/dem_flooded.png"
 ---
 

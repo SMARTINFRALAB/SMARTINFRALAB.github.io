@@ -14,7 +14,7 @@ See <a href="{{site.author.googlescholar}}">Google Scholar</a> for a full list o
 <ol>
 {% for post in site.publications reversed %}
   {% if post.type == 'preprint' %}
-  <li>{{post.citation}}</li>
+  <li class="publication__li"><a href="{{post.permalink}}">{{post.citation}}</a></li>
   {% endif %}
 {% endfor %}
 </ol>
@@ -25,7 +25,7 @@ See <a href="{{site.author.googlescholar}}">Google Scholar</a> for a full list o
 <ol>
 {% for post in site.publications reversed %}
   {% if post.type == 'article' %}
-  <li>{{post.citation}}</li>
+  <li class="publication__li"><a href="{{post.permalink}}">{{post.citation}}</a></li>
   {% endif %}
 {% endfor %}
 </ol>
@@ -35,7 +35,7 @@ See <a href="{{site.author.googlescholar}}">Google Scholar</a> for a full list o
 <ol>
 {% for post in site.publications reversed %}
   {% if post.type == 'tech_report' %}
-  <li>{{post.citation}}</li>
+  <li class="publication__li"><a href="{{post.permalink}}">{{post.citation}}</a></li>
   {% endif %}
 {% endfor %}
 </ol>
@@ -45,7 +45,7 @@ See <a href="{{site.author.googlescholar}}">Google Scholar</a> for a full list o
 <ol>
 {% for post in site.publications reversed %}
   {% if post.type == 'thesis' %}
-  <li>{{post.citation}}</li>
+  <li class="publication__li"><a href="{{post.permalink}}">{{post.citation}}</a></li>
   {% endif %}
 {% endfor %}
 </ol>

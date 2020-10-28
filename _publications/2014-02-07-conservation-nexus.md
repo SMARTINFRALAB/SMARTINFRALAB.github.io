@@ -10,8 +10,6 @@ paperurl: 'https://pubs.acs.org/doi/full/10.1021/es4033343'
 citation: '<b>Bartos, M.</b> & Chester, M. (2014). The conservation nexus: valuing interdependent water and energy savings in Arizona. <i>Environmental Science & Technology</i>, 48(4), 2139–2149. doi:10.1021/es4033343'
 ---
 
-<!-- This paper is about the number 1. The number 2 is left for future work. -->
+## Abstract
 
-<!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
-
-<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
+Water and energy resources are intrinsically linked, yet they are managed separately—even in the water-scarce American southwest. This study develops a spatially explicit model of water-energy interdependencies in Arizona and assesses the potential for cobeneficial conservation programs. The interdependent benefits of investments in eight conservation strategies are assessed within the context of legislated renewable energy portfolio and energy efficiency standards. The cobenefits of conservation are found to be significant. Water conservation policies have the potential to reduce statewide electricity demand by 0.82–3.1%, satisfying 4.1–16% of the state’s mandated energy-efficiency standard. Adoption of energy-efficiency measures and renewable generation portfolios can reduce nonagricultural water demand by 1.9–15%. These conservation cobenefits are typically not included in conservation plans or benefit-cost analyses. Many cobenefits offer negative costs of saved water and energy, indicating that these measures provide water and energy savings at no net cost. Because ranges of costs and savings for water-energy conservation measures are somewhat uncertain, future studies should investigate the cobenefits of individual conservation strategies in detail. Although this study focuses on Arizona, the analysis can be extended elsewhere as renewable portfolio and energy efficiency standards become more common nationally and internationally.

@@ -10,8 +10,6 @@ paperurl: 'https://www.sciencedirect.com/science/article/pii/S0309170818307322'
 citation: '<b>Bartos, M.</b>, & Kerkez, B. (2019). Hydrograph peak-shaving using a graph-theoretic algorithm for placement of hydraulic control structures. <i>Advances in Water Resources</i>, 127, 167–179. doi:10.1016/j.advwatres.2019.03.016'
 ---
 
-<!-- This paper is about the number 1. The number 2 is left for future work. -->
+## Abstract
 
-<!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
-
-<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
+The need to attenuate hydrograph peaks is central to the design of stormwater and flood control systems. However, few guidelines exist for siting hydraulic control structures such that system-scale benefits are maximized. This study presents a new graph-theoretic algorithm for stabilizing the hydrologic response of watersheds by placing controllers at strategic locations in the drainage network. This algorithm identifies subcatchments that dominate the peak of the hydrograph, and then finds the “cuts” in the drainage network that maximally isolate these subcatchments, thereby flattening the hydrologic response. Evaluating the performance of the algorithm through an ensemble of hydrodynamic simulations, we find that our controller placement algorithm produces consistently flatter discharges than randomized controller configurations—both in terms of the peak discharge and the overall variance of the hydrograph. By attenuating flashy flows, our algorithm provides a powerful methodology for mitigating flash floods, reducing erosion, and protecting aquatic ecosystems. More broadly, we show that controller placement exerts an important influence on the hydrologic response and demonstrate that analysis of drainage network structure can inform more effective stormwater control policies.

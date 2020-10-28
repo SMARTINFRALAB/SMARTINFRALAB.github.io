@@ -108,10 +108,38 @@
 .masthead__rgroup {
     @include span(9.6 of 12 last);
     padding-top: 0.6em;
+
     a {
         text-decoration: none;
         color: $text-color;
         font-weight: 700;
+
+        position: relative;
+
+        &:hover {
+            color: $link-color-hover;
+        }
+
+        &:before {
+            content: "";
+            position: absolute;
+            left: 0;
+            bottom: -10px;
+            height: 4px;
+            background: mix(#fff, $primary-color, 50%);
+            width: 100%;
+            -webkit-transition: $global-transition;
+            transition: $global-transition;
+            -webkit-transform: scaleX(0);
+            -ms-transform: scaleX(0);
+            transform: scaleX(0); /* hide*/
+        }
+
+        &:hover:before {
+            -webkit-transform: scaleX(1);
+            -ms-transform: scaleX(1);
+            transform: scaleX(1); /* reveal*/
+        }
     }
 }
 

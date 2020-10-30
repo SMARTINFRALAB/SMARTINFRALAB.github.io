@@ -8,6 +8,7 @@ venue: 'EarthArXiv'
 type: 'preprint'
 paperurl: 'https://eartharxiv.org/d8ca6/'
 citation: '<b>Bartos, M.</b>, & Kerkez, B. (2020). pipedream: an interactive digital twin model for urban drainage networks. doi: 10.31223/osf.io/d8ca6 (preprint).'
+tags: ['digital-twins', 'state-estimation']
 ---
 
 ## Abstract

@@ -8,6 +8,7 @@ venue: 'Arizona State University Library Digital Repository'
 type: 'tech_report'
 paperurl: 'https://repository.asu.edu/items/25228'
 citation: '<b>Bartos, M.</b>, & Chester, M. (2014). Assessing Future Extreme Heat Events at Intra-urban Scales: A Comparative Study of Phoenix and Los Angeles. Working Paper Series. Stock Number: ASU-CESEM-2014-WPS-001'
+tags: ['coupled-infrastructure-modeling']
 ---
 
 ## Abstract

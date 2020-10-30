@@ -8,6 +8,7 @@ venue: 'Journal of Hydroinformatics'
 type: 'article'
 paperurl: 'https://iwaponline.com/jh/article-abstract/doi/10.2166/hydro.2019.100/66092/Highresolution-hydrologic-forecasting-for-very'
 citation: 'Habibi, H., Dasgupta, I., Noh, S., Kim, S., Zink, M., Seo, D.-J., <b>Bartos, M.</b>, Kerkez, B. (2019). High-resolution hydrologic forecasting for very large urban areas. <i>Journal of Hydroinformatics</i>. doi:10.2166/hydro.2019.100'
+tags: ['wsns', 'flooding']
 ---
 
 ## Abstract

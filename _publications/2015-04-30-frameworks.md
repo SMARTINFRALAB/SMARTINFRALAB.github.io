@@ -8,6 +8,7 @@ venue: 'Arizona State University Library Digital Repository'
 type: 'tech_report'
 paperurl: 'https://repository.asu.edu/items/29203'
 citation: 'Chester, M., Fraser, A. & <b>Bartos, M.</b> (2015). Frameworks for Assessing the Vulnerability of US Rail Systems to Flooding and Extreme Heat. Working Paper Series. Stock Number: ASU-SSEBE-CESEM-2015-RPR-001'
+tags: ['coupled-infrastructure-modeling']
 ---
 
 ## Abstract

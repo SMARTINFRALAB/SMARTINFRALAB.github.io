@@ -8,6 +8,7 @@ venue: 'Deep Blue'
 type: 'thesis'
 paperurl: 'https://deepblue.lib.umich.edu/handle/2027.42/163144'
 citation: '<b>Bartos, M.</b> (2020). Advancing urban flood resilience with smart water infrastructure. Ph.D. Dissertation.' 
+tags: ['wsns', 'real-time-control', 'state-estimation', 'ubiquitous-sensing']
 ---
 
 ## Abstract

@@ -8,6 +8,7 @@ venue: 'Scientific Reports'
 type: 'article'
 paperurl: 'https://www.nature.com/articles/s41598-018-36282-7'
 citation: '<b>Bartos, M.</b>, Park, H., Zhou, T., Kerkez, B., & Vasudevan, R. (2019). Windshield wipers on connected vehicles produce high-accuracy rainfall maps. <i>Scientific Reports</i>, 9(1). doi:10.1038/s41598-018-36282-7'
+tags: ['ubiquitous-sensing']
 ---
 
 ## Abstract

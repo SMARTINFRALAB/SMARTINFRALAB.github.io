@@ -452,6 +452,13 @@
         @include span(8.5 of 12 last);
     }
 
+    a {
+        text-decoration: none;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+
     h1, h2, h3, h4, h5, h6 {
         margin: 0em 0 0.5em;
         line-height: 1.2;

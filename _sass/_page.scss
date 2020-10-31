@@ -87,14 +87,13 @@
 
   dt {
     margin-top: 1em;
-    font-family: $sans-serif;
+    font-family: $global-font-family;
     font-weight: bold;
   }
 
   dd {
     margin-left: 1em;
-    font-family: $sans-serif;
-    font-size: $type-size-6;
+    font-family: $global-font-family;
   }
 
   .small {
@@ -539,4 +538,3 @@
     padding-left: 1em;
     padding-right: 1em;
 }
-

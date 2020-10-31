@@ -7,6 +7,8 @@ date: 2020-09-02
 venue: 'Earth and Space Science Open Archive'
 type: 'preprint'
 paperurl: 'https://www.essoar.org/doi/10.1002/essoar.10504108.1'
+file: 'https://mdbartos.s3.us-east-2.amazonaws.com/publications/observability_based_sensor_placement.pdf'
+filetype: 'Preprint version'
 citation: '<b>Bartos, M.</b>, & Kerkez, B. (2020). Observability-based sensor placement improves contaminant tracing in river networks. doi: 10.1002/essoar.10504108.1 (preprint).'
 tags: ['state-estimation', 'networks']
 ---

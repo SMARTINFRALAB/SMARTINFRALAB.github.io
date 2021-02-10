@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: false
 ---
 
-See <a href="{{site.author.googlescholar}}">Google Scholar</a> for a full list of publications and citations.
+See <a href="{{site.author.googlescholar}}">Google Scholar</a> for a full list of publications.
 
 {% include base_path %}
 

@@ -59,6 +59,10 @@ layout: default
               <dt><h3>PDF Availability:</h3></dt>
               <dd><a href="{{ page.file }}">{{ page.filetype }}</a></dd>
             {% endif %}
+            {% if page.impact_factor %}
+              <dt><h3>Journal impact factor (2019):</h3></dt>
+              <dd>{{ page.impact_factor}}</dd>
+            {% endif %}
         </dl>
         </div>
         {% endif %}

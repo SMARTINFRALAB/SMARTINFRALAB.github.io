@@ -10,6 +10,7 @@ paperurl: 'https://www.sciencedirect.com/science/article/pii/S0309170818307322'
 file: 'https://mdbartos.s3.us-east-2.amazonaws.com/publications/hydrograph_peak_shaving.pdf'
 filetype: 'Accepted version'
 citation: '<b>Bartos, M.</b>, & Kerkez, B. (2019). Hydrograph peak-shaving using a graph-theoretic algorithm for placement of hydraulic control structures. <i>Advances in Water Resources</i>, 127, 167–179. doi:10.1016/j.advwatres.2019.03.016'
+impact_factor: 4.016
 tags: ['real-time-control', 'networks']
 ---
 

@@ -8,6 +8,7 @@ venue: 'Atmospheric Measurement Techniques'
 type: 'article'
 paperurl: 'https://doi.org/10.5194/amt-14-995-2021'
 citation: 'Buehler, C., Xiong, F., Zamora, M. L., Skog, K. M., Kohrman-Glaser, J., Colton, S., McNamara, M., Ryan, K., Redlich, C., <b>Bartos, M.</b>, Wong, B., Kerkez, B., Koehler, K., and Gentner, D. R. (2020). Stationary and Portable Multipollutant Monitors for High Spatiotemporal Resolution Air Quality Studies including Online Calibration, <i>Atmospheric Measurement Techniques</i>, 14, 995–1013, doi: 10.5194/amt-14-995-2021'
+impact_factor: 3.668
 tags: ['wsns']
 ---
 

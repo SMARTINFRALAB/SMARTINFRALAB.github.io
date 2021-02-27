@@ -132,7 +132,7 @@
     text-align: center;
     text-decoration: none;
     color: mix(#fff, $gray, 50%);
-    border: 1px solid $light-gray;
+    border: 0px solid $light-gray;
     border-radius: $border-radius;
 
     &:hover {
@@ -163,7 +163,7 @@
 .page__share + .pagination,
 .page__comments + .pagination {
   margin-top: 2em;
-  padding-top: 2em;
+  padding-top: 0em;
   border-top: 1px solid $border-color;
 }
 

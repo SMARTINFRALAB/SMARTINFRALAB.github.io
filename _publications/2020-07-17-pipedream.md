@@ -7,7 +7,9 @@ date: 2020-07-17
 venue: 'EarthArXiv'
 type: 'preprint'
 paperurl: 'https://eartharxiv.org/d8ca6/'
-citation: '<b>Bartos, M.</b>, & Kerkez, B. (2020). pipedream: an interactive digital twin model for urban drainage networks. doi: 10.31223/osf.io/d8ca6 (preprint).'
+citation: '<b>Bartos, M.</b>, & Kerkez, B. (2021). pipedream: an interactive digital twin model for urban drainage networks. doi: 10.31223/osf.io/d8ca6 (submitted to <i>Environmental Modelling & Software</i>).'
+abstract_art: 'https://mdbartos.s3.us-east-2.amazonaws.com/img/abstract_art_11.png'
+abstract_art_caption: 'Validation of Kalman filter using holdout assessment. Left: Depth hydrographs at basins 1 and 3, where the Kalman filter is applied. Right: Depth hydrographs at holdout sites where Kalman filter was not applied. The Kalman filter reduces error at both holdout sites.'
 tags: ['digital-twins', 'state-estimation']
 ---
 

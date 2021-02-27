@@ -9,6 +9,8 @@ type: 'article'
 paperurl: 'https://iwaponline.com/jh/article-abstract/doi/10.2166/hydro.2019.100/66092/Highresolution-hydrologic-forecasting-for-very'
 citation: 'Habibi, H., Dasgupta, I., Noh, S., Kim, S., Zink, M., Seo, D.-J., <b>Bartos, M.</b>, Kerkez, B. (2019). High-resolution hydrologic forecasting for very large urban areas. <i>Journal of Hydroinformatics</i>. doi:10.2166/hydro.2019.100'
 impact_factor: 1.728
+abstract_art: 'https://mdbartos.s3.us-east-2.amazonaws.com/img/abstract_art_7.png'
+abstract_art_caption: 'Evaluation of hydrologic model calibration. Left: example of the observed (black) vs. predicted (red) stage hydrographs and the associated hyetograph (blue) for a series of significant rainfall events. Right: observed stage vs. simulated flow relationships at nine locations.'
 tags: ['wsns', 'flooding']
 ---
 

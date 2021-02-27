@@ -44,7 +44,14 @@ layout: default
 
 
         {% if page.citation or page.paperurl or page.file %}
-        <div class="page__content">
+          <div class="page__content">
+             {% if page.abstract_art %}
+              <img src="{{ page.abstract_art}}">
+              {% if page.abstract_art_caption %}
+              <p></p>
+              <p><i>{{ page.abstract_art_caption}}</i></p>
+              {% endif %}
+            {% endif %}
         <h2>Publication info</h2>
         <dl>
             {% if page.citation %}

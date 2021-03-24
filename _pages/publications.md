@@ -30,6 +30,16 @@ See <a href="{{site.author.googlescholar}}">Google Scholar</a> for a full list o
 {% endfor %}
 </ol>
 
+## Conference Proceedings
+
+<ol>
+{% for post in site.publications reversed %}
+  {% if post.type == 'refereed-conference-proceeding' %}
+  <li class="publication__li"><a href="{{post.permalink}}">{{post.citation}}</a></li>
+  {% endif %}
+{% endfor %}
+</ol>
+
 ## Technical reports
 
 <ol>

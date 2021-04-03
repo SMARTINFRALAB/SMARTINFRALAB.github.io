@@ -7,6 +7,6 @@ date: 2014-01-17
 venue: 'Central Arizona-Phoenix Long-Term Ecological Research Project, 16th Annual All Scientists Meeting, Scottsdale, AZ'
 type: 'refereed-conference-proceeding'
 paperurl: ''
-citation: 'Reyna, J., <b>Bartos, M.</b>, & Chester, M. (2014). <i>Life cycle assessment of ecosystem services: Phoenix building stock</i>. Central Arizona-Phoenix Long-Term Ecological Research Project, 16th Annual All Scientists Meeting, Scottsdale, AZ.'
+citation: 'Reyna, J., <b>Bartos, M.</b>, & Chester, M. (2014). <i>Life cycle assessment of ecosystem services: Phoenix building stock</i>. Central Arizona-Phoenix Long-Term Ecological Research Project, 16th Annual All Scientists Meeting, Scottsdale, AZ. [Poster]'
 tags: ['coupled-infrastructure-modeling']
 ---

@@ -7,6 +7,6 @@ date: 2018-01-08
 venue: 'Earth Science Information Partners Winter Meeting 2018, Bethesda, MD'
 type: 'refereed-conference-proceeding'
 paperurl: ''
-citation: '<b>Bartos, M.</b> (2018). <i>Automated Sensor Firmware Generation Using SensorML</i>. Earth Science Information Partners Winter Meeting 2018, Bethesda, MD.'
+citation: '<b>Bartos, M.</b> (2018). <i>Automated Sensor Firmware Generation Using SensorML</i>. Earth Science Information Partners Winter Meeting 2018, Bethesda, MD. [Poster]'
 tags: ['coupled-infrastructure-modeling']
 ---

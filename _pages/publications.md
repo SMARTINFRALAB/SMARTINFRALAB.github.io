@@ -30,7 +30,7 @@ See <a href="{{site.author.googlescholar}}">Google Scholar</a> for a full list o
 {% endfor %}
 </ol>
 
-## Conference Proceedings
+## Conference proceedings
 
 <ol>
 {% for post in site.publications reversed %}
@@ -40,7 +40,7 @@ See <a href="{{site.author.googlescholar}}">Google Scholar</a> for a full list o
 {% endfor %}
 </ol>
 
-## Invited Talks
+## Invited talks
 
 <ol>
 {% for post in site.publications reversed %}

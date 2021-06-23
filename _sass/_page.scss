@@ -466,6 +466,13 @@
         font-weight: 500;
         border-bottom: 0px;
         padding-bottom: 0em;
+
+        a {
+            text-decoration: none;
+            &:hover {
+                text-decoration: underline;
+            }
+        }
     }
 
     padding-left: 1em;
@@ -537,4 +544,9 @@
 
     padding-left: 1em;
     padding-right: 1em;
+}
+
+.publication__spacer {
+    margin-bottom: 0em;
+    margin-top: 0em;
 }

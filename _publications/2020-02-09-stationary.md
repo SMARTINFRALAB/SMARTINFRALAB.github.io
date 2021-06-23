@@ -7,9 +7,12 @@ date: 2021-02-09
 venue: 'Atmospheric Measurement Techniques'
 type: 'article'
 paperurl: 'https://doi.org/10.5194/amt-14-995-2021'
-citation: 'Buehler, C., Xiong, F., Zamora, M. L., Skog, K. M., Kohrman-Glaser, J., Colton, S., McNamara, M., Ryan, K., Redlich, C., <b>Bartos, M.</b>, Wong, B., Kerkez, B., Koehler, K., and Gentner, D. R. (2021). Stationary and Portable Multipollutant Monitors for High Spatiotemporal Resolution Air Quality Studies including Online Calibration, <i>Atmospheric Measurement Techniques</i>, 14, 995–1013, doi: 10.5194/amt-14-995-2021'
+citation: 'Buehler, C., Xiong, F., Zamora, M. L., Skog, K. M., Kohrman-Glaser, J., Colton, S., McNamara, M., Ryan, K., Redlich, C., <b>Bartos, M.</b>, Wong, B., Kerkez, B., Koehler, K., & Gentner, D. R. (2021). Stationary and Portable Multipollutant Monitors for High Spatiotemporal Resolution Air Quality Studies including Online Calibration, <i>Atmospheric Measurement Techniques</i>, 14, 995–1013, doi: 10.5194/amt-14-995-2021'
+authors: "Buehler, C., Xiong, F., Zamora, M. L., Skog, K. M., Kohrman-Glaser, J., Colton, S., McNamara, M., Ryan, K., Redlich, C., <b>Bartos, M.</b>, Wong, B., Kerkez, B., Koehler, K., & Gentner, D. R."
+journal_info: "<i>Atmospheric Measurement Techniques</i>, 14, 995–1013, (2021)"
 impact_factor: 3.668
 abstract_art: 'https://mdbartos.s3.us-east-2.amazonaws.com/img/abstract_art_10.png'
+thumbnail: 'https://mdbartos.s3.us-east-2.amazonaws.com/img/pollutant_monitor_thumb.png'
 abstract_art_caption: 'SolidWorks renderings (b-c) and photo (d) of multipollutant monitor.'
 tags: ['wsns']
 ---

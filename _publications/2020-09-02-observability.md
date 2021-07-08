@@ -11,7 +11,7 @@ file: 'https://mdbartos.s3.us-east-2.amazonaws.com/publications/observability_ba
 filetype: 'Preprint version'
 citation: '<b>Bartos, M.</b>, & Kerkez, B. (2021). Observability-based sensor placement improves contaminant tracing in river networks. doi: 10.1002/essoar.10504108.1 (submitted to <i>Water Resources Research</i>).'
 authors: "<b>Bartos, M.</b> & Kerkez, B."
-journal_info: "In review at <i>Water Resources Research</i> (2021)"
+journal_info: "Accepted at <i>Water Resources Research</i> (2021)"
 abstract_art: 'https://mdbartos.s3.us-east-2.amazonaws.com/img/abstract_art_12.png'
 thumbnail: 'https://mdbartos.s3.us-east-2.amazonaws.com/img/sensor_placement_thumb.png'
 abstract_art_caption: 'Visualization of sensor placements predicted by observability maximization. Sensor placement progression for trace- (left) and rank- (right) optimized strategies from N=2 to N=16 sensors.'

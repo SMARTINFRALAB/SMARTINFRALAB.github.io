@@ -1,5 +1,5 @@
 ---
-title: "Stationary and Portable Multipollutant Monitors for High Spatiotemporal Resolution Air Quality Studies including Online Calibration"
+title: "Stationary and portable multipollutant monitors for high spatiotemporal resolution air quality studies including online calibration"
 collection: publications
 permalink: /publication/2021-02-09-stationary
 excerpt: ''

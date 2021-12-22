@@ -7,8 +7,8 @@ date: 2021-06-26
 venue: 'Water Resources Research'
 type: 'article'
 paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020WR029551'
-file: 'https://mdbartos.s3.us-east-2.amazonaws.com/publications/observability_based_sensor_placement.pdf'
-filetype: 'Preprint version'
+file: 'https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020WR029551'
+filetype: 'Full text'
 citation: '<b>Bartos, M.</b>, & Kerkez, B. (2021). Observability-based sensor placement improves contaminant tracing in river networks. <i>Water Resources Research</i>, 57(7), doi:10.1029/2020wr029551'
 authors: "<b>Bartos, M.</b> & Kerkez, B."
 journal_info: "<i>Water Resources Research</i>, 57(7), (2021)"

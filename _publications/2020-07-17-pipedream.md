@@ -7,6 +7,8 @@ date: 2021-06-14
 venue: 'Environmental Modelling & Software'
 type: 'article'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1364815221001638'
+file: 'https://reader.elsevier.com/reader/sd/pii/S1364815221001638?token=8B889C9002B6BA00015B12B73337C3244F4A570121266A4542080CD7DBACC31B37032127CB621C0769747B4C6FBE1124&originRegion=us-east-1&originCreation=20211222053724'
+filetype: 'Full text'
 citation: '<b>Bartos, M.</b>, & Kerkez, B. (2021). pipedream: an interactive digital twin model for urban drainage networks. <i>Environmental Modelling & Software</i>, 144, 105120, doi:10.1016/j.envsoft.2021.105120.'
 authors: "<b>Bartos, M.</b> & Kerkez, B."
 journal_info: "<i>Environmental Modelling & Software</i>, 144, 105120, (2021)"

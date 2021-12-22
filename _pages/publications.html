@@ -88,5 +88,13 @@ See <a href="{{site.author.googlescholar}}">Google Scholar</a> for a full list o
 {% endfor %}
 </ol>
 
+<h2>Media</h2>
+<ol>
+{% for post in site.publications reversed %}
+  {% if post.type == 'media' %}
+  <li class="publication__li"><a href="{{post.permalink}}">{{post.citation}}</a></li>
+  {% endif %}
+{% endfor %}
+</ol>
 
 </section>

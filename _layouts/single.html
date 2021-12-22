@@ -64,6 +64,16 @@ layout: default
             <dt><h3>Recommended citation:</h3></dt>
               <dd> {{ page.citation }}</dd>
             {% endif %}
+
+            {% if page.external_url %}
+              <dt><h3>Available at:</h3></dt>
+              <dd><a href="{{ page.external_url }}">{{ page.external_url }}</a></dd>
+            {% endif %}
+            {% if page.archive_url %}
+              <dt><h3>Archived at:</h3></dt>
+              <dd><a href="{{ page.archive_url }}">{{ page.archive_url }}</a></dd>
+            {% endif %}
+
             {% if page.paperurl %}
               <dt><h3>Available at:</h3></dt>
               <dd><a href="{{ page.paperurl }}">{{ page.paperurl }}</a></dd>

@@ -12,9 +12,11 @@ author_profile: false
 Is to build the smart and connected water systems of the future.
 
 <div id="webgl"></div>
-<script src="https://threejs.org/build/three.js"></script>
+<script src="../lib/three.min.js"></script>
 <script src="../lib/TerrainLoader.js"></script>
 <script>
+
+ "use strict";
 
  var scene = new THREE.Scene();
  scene.background = new THREE.Color( 0x1a202c );
@@ -33,19 +35,16 @@ Is to build the smart and connected water systems of the future.
  camera.position.set(0, -50, 50);
  camera.rotation.set(3.14 / 4, 0, 0);
 
-function resizeCanvasToDisplaySize() {
+ function resizeCanvasToDisplaySize() {
     const canvas = renderer.domElement;
     const width = canvas.clientWidth;
     const height = canvas.clientHeight;
     if (canvas.width !== width ||canvas.height !== height) {
-        // you must pass false here or three.js sadly fights the browser
         renderer.setSize(width, height, false);
         camera.aspect = width / height;
         camera.updateProjectionMatrix();
-
-        // set render target sizes here
     }
-}
+ }
 
  var terrainLoader_0 = new THREE.TerrainLoader();
  var terrainLoader_1 = new THREE.TerrainLoader();
@@ -118,7 +117,6 @@ function resizeCanvasToDisplaySize() {
  }
 
  animate();
-
 
 </script>
 

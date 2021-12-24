@@ -7,7 +7,7 @@ author_profile: false
 
 {% include base_path %}
 
-<h1>Faculty</h1>
+<h1><i class="fas fa-user-tie" aria-hidden="true"></i>&nbsp; &nbsp; Faculty</h1>
 
 <div class="page__col-wrap">
 <div class="people__lcol"><div class="people__avatar"><img src="https://mattbartos.com/images/profile.jpg"></div></div>
@@ -21,7 +21,7 @@ author_profile: false
 
 <br>
 
-<h1>PhD students</h1>
+<h1><i class="fas fa-user-graduate" aria-hidden="true"></i>&nbsp; &nbsp; PhD students</h1>
 
 <div class="page__col-wrap">
 <div class="people__lcol"><div class="people__avatar"><img src="https://mdbartos.s3.us-east-2.amazonaws.com/img/Yeji_Kim.jpeg"></div></div>
@@ -41,7 +41,7 @@ author_profile: false
 
 <br>
 
-<h1>MS students</h1>
+<h1><i class="fas fa-user-graduate" aria-hidden="true"></i>&nbsp; &nbsp; MS students</h1>
 
 <div class="page__col-wrap">
 <div class="people__lcol"><div class="people__avatar"><img src="https://mdbartos.s3.us-east-2.amazonaws.com/img/Jeil_Oh.jpeg"></div></div>

@@ -2,7 +2,6 @@
 title: "Hydrograph peak-shaving using a graph-theoretic algorithm for placement of hydraulic control structures"
 collection: publications
 permalink: /publication/2019-03-28-hydrograph
-excerpt: ''
 date: 2019-03-28
 venue: 'Advances in Water Resources'
 type: 'article'
@@ -16,7 +15,7 @@ impact_factor: 4.016
 abstract_art: 'https://mdbartos.s3.us-east-2.amazonaws.com/img/abstract_art_8b.png'
 thumbnail: 'https://mdbartos.s3.us-east-2.amazonaws.com/img/peakshaving_thumb.png'
 abstract_art_caption: 'Visualization of controller placement algorithm. Left: partitioning of the example watershed using the controller placement algorithm. Right: stacked width functions for each partition. The brightness expresses the priority of each partition, with the darker partitions being prioritized over the brighter ones.'
-tags: ['real-time-control', 'networks']
+tags: ['graph-theory', 'algorithms', 'networks']
 ---
 
 ## Abstract

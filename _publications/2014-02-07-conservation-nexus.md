@@ -2,7 +2,6 @@
 title: "The conservation nexus: valuing interdependent water and energy savings in Arizona"
 collection: publications
 permalink: /publication/2014-02-07-conservation-nexus
-excerpt: ''
 date: 2014-02-07
 venue: 'Environmental Science and Technology'
 type: 'article'
@@ -15,7 +14,7 @@ abstract_art: 'https://mdbartos.s3.us-east-2.amazonaws.com/img/abstract_art_1.pn
 thumbnail: 'https://mdbartos.s3.us-east-2.amazonaws.com/img/wen_thumb.png'
 abstract_art_caption: 'Embedded energy in water cycle components in 2008. Top: Embedded energy (noncumulative) in each county for the four major water life-cycle stages. Bottom: Cumulative embedded energy in each life-cycle component.'
 awards: "Featured piece in Nature Climate Change's 2014 Views collection, Water-energy Nexus: Assessing Integrated Systems"
-tags: ['coupled-infrastructure-modeling']
+tags: ['coupled-infrastructure-modeling', 'water-energy-nexus', 'life-cycle-assessment']
 ---
 
 ## Abstract

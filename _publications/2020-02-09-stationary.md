@@ -2,7 +2,6 @@
 title: "Stationary and portable multipollutant monitors for high spatiotemporal resolution air quality studies including online calibration"
 collection: publications
 permalink: /publication/2021-02-09-stationary
-excerpt: ''
 date: 2021-02-09
 venue: 'Atmospheric Measurement Techniques'
 type: 'article'
@@ -14,7 +13,7 @@ impact_factor: 3.668
 abstract_art: 'https://mdbartos.s3.us-east-2.amazonaws.com/img/abstract_art_10.png'
 thumbnail: 'https://mdbartos.s3.us-east-2.amazonaws.com/img/pollutant_monitor_thumb.png'
 abstract_art_caption: 'SolidWorks renderings (b-c) and photo (d) of multipollutant monitor.'
-tags: ['wsns']
+tags: ['wireless-sensor-networks', 'air-quality']
 ---
 
 ## Abstract

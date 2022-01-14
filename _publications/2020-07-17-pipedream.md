@@ -2,7 +2,6 @@
 title: "pipedream: an interactive digital twin model for natural and urban drainage systems"
 collection: publications
 permalink: /publication/2021-06-14-pipedream
-excerpt: ''
 date: 2021-06-14
 venue: 'Environmental Modelling & Software'
 type: 'article'
@@ -15,7 +14,7 @@ journal_info: "<i>Environmental Modelling & Software</i>, 144, 105120, (2021)"
 abstract_art: 'https://mdbartos.s3.us-east-2.amazonaws.com/img/abstract_art_11.png'
 thumbnail: 'https://mdbartos.s3.us-east-2.amazonaws.com/img/digital_twins_thumb.png'
 abstract_art_caption: 'Validation of Kalman filter using holdout assessment. Left: Depth hydrographs at basins 1 and 3, where the Kalman filter is applied. Right: Depth hydrographs at holdout sites where Kalman filter was not applied. The Kalman filter reduces error at both holdout sites.'
-tags: ['digital-twins', 'state-estimation']
+tags: ['digital-twins', 'state-estimation', 'smart-stormwater-systems', 'software']
 ---
 
 ## Abstract

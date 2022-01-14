@@ -2,7 +2,6 @@
 title: "High-resolution hydrologic forecasting for very large urban areas"
 collection: publications
 permalink: /publication/2019-02-27-hydrologic
-excerpt: ''
 date: 2019-02-27
 venue: 'Journal of Hydroinformatics'
 type: 'article'
@@ -14,7 +13,7 @@ impact_factor: 1.728
 abstract_art: 'https://mdbartos.s3.us-east-2.amazonaws.com/img/abstract_art_7.png'
 thumbnail: 'https://mdbartos.s3.us-east-2.amazonaws.com/img/dfw_forecasting_thumb.png'
 abstract_art_caption: 'Evaluation of hydrologic model calibration. Left: example of the observed (black) vs. predicted (red) stage hydrographs and the associated hyetograph (blue) for a series of significant rainfall events. Right: observed stage vs. simulated flow relationships at nine locations.'
-tags: ['wsns', 'flooding']
+tags: ['wireless-sensor-networks', 'urban-flooding', 'flood-monitoring']
 ---
 
 ## Abstract

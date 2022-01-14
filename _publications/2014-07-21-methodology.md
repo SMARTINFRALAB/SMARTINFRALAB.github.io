@@ -2,13 +2,12 @@
 title: "Methodology for Estimating Electricity Generation Vulnerability to Climate Change Using a Physically-based Modelling System"
 collection: publications
 permalink: /publication/2014-07-21-methodology
-excerpt: ''
 date: 2014-07-21
 venue: 'Arizona State University Library Digital Repository'
 type: 'tech_report'
 paperurl: 'https://repository.asu.edu/items/25404'
 citation: '<b>Bartos, M.</b>, & Chester, M. (2014). Methodology for Estimating Electricity Generation Vulnerability to Climate Change Using a Physically-based Modelling System. Working Paper Series. Stock Number: ASU-CESEM-2014-WPS-002'
-tags: ['coupled-infrastructure-modeling']
+tags: ['coupled-infrastructure-modeling', 'water-energy-nexus', 'climate-change']
 ---
 
 ## Abstract

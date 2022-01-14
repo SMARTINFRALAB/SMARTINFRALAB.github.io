@@ -2,7 +2,6 @@
 title: "Windshield wipers on connected vehicles produce high-accuracy rainfall maps"
 collection: publications
 permalink: /publication/2019-01-17-windshield
-excerpt: ''
 date: 2019-01-17
 venue: 'Scientific Reports'
 type: 'article'

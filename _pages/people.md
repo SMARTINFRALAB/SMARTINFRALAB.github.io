@@ -55,4 +55,10 @@ author_profile: false
 </div>
 </div>
 
+<div class="page__col-wrap">
+<div class="people__lcol"><div class="people__avatar"><img src="https://mdbartos.s3.us-east-2.amazonaws.com/img/Aditi_Bhat.jpeg"></div></div>
+<div class="people__rcol"><h1>Aditi Bhat Ilanthodi</h1> <b>MS student, Department of Civil, Architectural and Environmental Engineering</b> <br> <br> B.Tech Civil Engineering, National Institute of Technology Karnataka, 2020
+</div>
+</div>
+
 

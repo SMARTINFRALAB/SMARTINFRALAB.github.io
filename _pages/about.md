@@ -128,6 +128,9 @@ Our goal is to build the <i>smart and connected</i> water systems of the future.
 <details open>
     <summary><u>Recent</u></summary>
      <ul>
+        <li>[2022-06-08] : Matt and Jeil present at EWRI.</li>
+        <li>[2022-05-09] : Matt and Jeil present at AWRA.</li>
+        <li>[2022-02-11] : Matt interviewed in Stormwater Solutions.</li>
         <li>[2022-01-10] : Matt and Jeil present at UDM.</li>
         <li>[2021-12-14] : Matt presents at AGU.</li>
         <li>[2021-10-22] : Matt presents at the WCE Seminar Series.</li>

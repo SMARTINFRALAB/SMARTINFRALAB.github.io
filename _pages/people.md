@@ -21,7 +21,7 @@ author_profile: false
 
 <br>
 
-<h1><i class="fas fa-user-graduate" aria-hidden="true"></i>&nbsp; &nbsp; PhD students</h1>
+<h1><i class="fas fa-user" aria-hidden="true"></i>&nbsp; &nbsp; PhD students</h1>
 
 <div class="page__col-wrap">
 <div class="people__lcol"><div class="people__avatar"><img src="https://mdbartos.s3.us-east-2.amazonaws.com/img/Yeji_Kim.jpeg"></div></div>
@@ -41,7 +41,7 @@ author_profile: false
 
 <br>
 
-<h1><i class="fas fa-user-graduate" aria-hidden="true"></i>&nbsp; &nbsp; MS students</h1>
+<h1><i class="fas fa-user" aria-hidden="true"></i>&nbsp; &nbsp; MS students</h1>
 
 <div class="page__col-wrap">
 <div class="people__lcol"><div class="people__avatar"><img src="https://mdbartos.s3.us-east-2.amazonaws.com/img/Jeil_Oh.jpeg"></div></div>
@@ -50,14 +50,28 @@ author_profile: false
 </div>
 
 <div class="page__col-wrap">
-<div class="people__lcol"><div class="people__avatar"><img src="https://mdbartos.s3.us-east-2.amazonaws.com/img/Yuanzhe_Wang.jpeg"></div></div>
-<div class="people__rcol"><h1>Yuanzhe Wang</h1> <b>MS student, Department of Civil, Architectural and Environmental Engineering</b> <br> <br> B.S. Civil and Environmental Engineering, University of New South Wales, 2020
+<div class="people__lcol"><div class="people__avatar"><img src="https://mdbartos.s3.us-east-2.amazonaws.com/img/Aditi_Bhat.jpeg"></div></div>
+<div class="people__rcol"><h1>Aditi Bhat Ilanthodi</h1> <b>MS student, Department of Civil, Architectural and Environmental Engineering</b> <br> <br> B.Tech Civil Engineering, National Institute of Technology Karnataka, 2020
 </div>
 </div>
 
 <div class="page__col-wrap">
-<div class="people__lcol"><div class="people__avatar"><img src="https://mdbartos.s3.us-east-2.amazonaws.com/img/Aditi_Bhat.jpeg"></div></div>
-<div class="people__rcol"><h1>Aditi Bhat Ilanthodi</h1> <b>MS student, Department of Civil, Architectural and Environmental Engineering</b> <br> <br> B.Tech Civil Engineering, National Institute of Technology Karnataka, 2020
+<div class="people__lcol"><div class="people__avatar"><img src="https://mdbartos.s3.us-east-2.amazonaws.com/img/Jimmy_Ardoin.jpeg"></div></div>
+<div class="people__rcol"><h1>Jimmy Ardoin</h1> <b>MS student, Department of Civil, Architectural and Environmental Engineering</b> <br> <br> B.S. Physics, Texas A&M University, 2022 <br> B.S. History, Texas A&M University, 2022
+</div>
+</div>
+
+<br>
+
+<div class="page__col-wrap"></div>
+
+<br>
+
+<h1><i class="fas fa-user-graduate" aria-hidden="true"></i>&nbsp; &nbsp; MS alumni</h1>
+
+<div class="page__col-wrap">
+<div class="people__lcol"><div class="people__avatar"><img src="https://mdbartos.s3.us-east-2.amazonaws.com/img/Yuanzhe_Wang.jpeg"></div></div>
+<div class="people__rcol"><h1>Yuanzhe Wang</h1> <b>MS student, Department of Civil, Architectural and Environmental Engineering</b> <br> <br> B.S. Civil and Environmental Engineering, University of New South Wales, 2020
 </div>
 </div>
 

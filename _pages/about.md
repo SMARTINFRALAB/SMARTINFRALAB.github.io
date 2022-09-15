@@ -128,19 +128,21 @@ Our goal is to build the <i>smart and connected</i> water systems of the future.
 <details open>
     <summary><u>Recent</u></summary>
      <ul>
+        <li>[2022-08-26] : Matt presents at TFMA.</li>
         <li>[2022-06-08] : Matt and Jeil present at EWRI.</li>
         <li>[2022-05-09] : Matt and Jeil present at AWRA.</li>
+        <li>[2022-04-13] : Yeji presents at PT2050 research symposium.</li>
         <li>[2022-02-11] : Matt interviewed in Stormwater Solutions.</li>
         <li>[2022-01-10] : Matt and Jeil present at UDM.</li>
-        <li>[2021-12-14] : Matt presents at AGU.</li>
-        <li>[2021-10-22] : Matt presents at the WCE Seminar Series.</li>
-        <li>[2021-10-01] : «Pipedream» published in EMS.</li>
      </ul>
 </details>
 
 <details>
     <summary><u>Older</u></summary>
      <ul>
+        <li>[2021-12-14] : Matt presents at AGU.</li>
+        <li>[2021-10-22] : Matt presents at the WCE Seminar Series.</li>
+        <li>[2021-10-01] : «Pipedream» published in EMS.</li>
         <li>[2021-07-21] : Matt interviewed in El Paso Matters.</li>
         <li>[2021-06-26] : «Observability-based sensor placement» published in WRR.</li>
         <li>[2021-05-13] : Matt presents at INCOSE.</li>

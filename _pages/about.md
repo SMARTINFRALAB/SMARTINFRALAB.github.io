@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Our goal is to build the <i>smart and connected</i> water systems of the future.
+<div style="float:left">Our goal is to build the <i>smart and connected</i> water systems of the future ... <div id="cursor"></div></div>
 
 <div id="webgl"></div>
 <script src="../lib/three.min.js"></script>

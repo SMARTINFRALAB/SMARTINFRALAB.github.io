@@ -550,3 +550,19 @@
     margin-bottom: 0em;
     margin-top: 0em;
 }
+
+#cursor {
+    background: #fff;
+    line-height: 17px;
+    margin-left: 3px;
+    -webkit-animation: blink 0.8s infinite;
+    width: 7px;
+    height: 15px;
+    display: inline-block;
+}
+
+@-webkit-keyframes blink {
+    0% {background: #222}
+    50% {background: white}
+    100% {background: #222}
+}

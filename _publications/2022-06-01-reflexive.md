@@ -7,7 +7,7 @@ venue: 'Frontiers in Sustainable Cities'
 type: 'preprint'
 citation: 'Bixler, R.P., Coudert, M., Richter, S., Jones, J., Pulido, C., Akhavan, N., <b>Bartos, M.</b>, Passalacqua, P., & Niyogi, D. (2022). Reflexive co-production for urban resilience: a guiding framework and experiences from Austin, Texas  (in review at <i>Frontiers in Sustainable Cities</i>).'
 authors: "Bixler, R.P., Coudert, M., Richter, S., Jones, J., Pulido, C., Akhavan, N., <b>Bartos, M.</b>, Passalacqua, P., & Niyogi, D."
-journal_info: "In Review at <i>Frontiers in Sustainable Cities</i>"
+journal_info: "Accepted at <i>Frontiers in Sustainable Cities</i>"
 abstract_art: ''
 thumbnail: 'https://mdbartos.s3.us-east-2.amazonaws.com/img/reflexive_thumb.png'
 abstract_art_caption: ''

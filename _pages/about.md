@@ -128,6 +128,7 @@ redirect_from:
 <details open>
     <summary><u>Recent</u></summary>
      <ul>
+        <li>[2022-12-12] : Yeji presents at AGU.</li>
         <li>[2022-08-26] : Matt presents at TFMA.</li>
         <li>[2022-06-08] : Matt and Jeil present at EWRI.</li>
         <li>[2022-05-09] : Matt and Jeil present at AWRA.</li>

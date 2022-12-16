@@ -35,6 +35,12 @@ author_profile: false
 </div>
 </div>
 
+<div class="page__col-wrap">
+<div class="people__lcol"><div class="people__avatar"><img src="https://mdbartos.s3.us-east-2.amazonaws.com/img/Jeil_Oh.jpeg"></div></div>
+<div class="people__rcol"><h1>Jeil Oh</h1> <b>PhD student, Department of Civil, Architectural and Environmental Engineering</b> <br> <br> B.S. Civil and Environmental Engineering, Yonsei University, 2020 <br> M.S. Civil and Environmental Engineering, University of Texas at Austin, 2022
+</div>
+</div>
+
 <br>
 
 <div class="page__col-wrap"></div>
@@ -42,12 +48,6 @@ author_profile: false
 <br>
 
 <h1><i class="fas fa-user" aria-hidden="true"></i>&nbsp; &nbsp; MS students</h1>
-
-<div class="page__col-wrap">
-<div class="people__lcol"><div class="people__avatar"><img src="https://mdbartos.s3.us-east-2.amazonaws.com/img/Jeil_Oh.jpeg"></div></div>
-<div class="people__rcol"><h1>Jeil Oh</h1> <b>MS student, Department of Civil, Architectural and Environmental Engineering</b> <br> <br> B.S. Civil and Environmental Engineering, Yonsei University, 2020
-</div>
-</div>
 
 <div class="page__col-wrap">
 <div class="people__lcol"><div class="people__avatar"><img src="https://mdbartos.s3.us-east-2.amazonaws.com/img/Aditi_Bhat.jpeg"></div></div>

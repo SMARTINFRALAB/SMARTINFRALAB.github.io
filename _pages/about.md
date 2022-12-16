@@ -128,27 +128,27 @@ redirect_from:
 <details open>
     <summary><u>Recent</u></summary>
      <ul>
-        <li>[2022-12-12] : Yeji presents at AGU.</li>
-        <li>[2022-08-26] : Matt presents at TFMA.</li>
-        <li>[2022-06-08] : Matt and Jeil present at EWRI.</li>
-        <li>[2022-05-09] : Matt and Jeil present at AWRA.</li>
-        <li>[2022-04-13] : Yeji presents at PT2050 research symposium.</li>
-        <li>[2022-02-11] : Matt interviewed in Stormwater Solutions.</li>
-        <li>[2022-01-10] : Matt and Jeil present at UDM.</li>
+         <li>[2022-12-12] : Yeji presents at <a href="https://agu2022fallmeeting-agu.ipostersessions.com/default.aspx?s=EE-07-F8-EC-79-06-9C-43-B1-81-C4-E7-B2-3B-50-DB">AGU</a>.</li>
+         <li>[2022-08-26] : Matt presents at <a href="https://www.tfma.org/mpage/2022-summit">TFMA</a>.</li>
+         <li>[2022-06-08] : Matt and Jeil present at <a href="https://www.ewricongress.org/">EWRI</a>.</li>
+         <li>[2022-05-09] : Matt and Jeil present at <a href="https://www.awra.org/AWRA/Members/Events_and_Education/Events/2022_GIS_Conference/2022_GIS_Conference.aspx">AWRA</a>.</li>
+         <li>[2022-04-13] : Yeji presents at <a href="https://bridgingbarriers.utexas.edu/events/planet-texas-2050-research-symposium-week-resilience-action">PT2050 research symposium</a>.</li>
+         <li>[2022-02-11] : Matt interviewed in <a href="https://www.estormwater.com/software/software-modeling/article/10983678/new-real-time-digital-twin-can-forecast-storm-water-overflows">Stormwater Solutions</a>.</li>
+        <li>[2022-01-10] : Matt and Jeil present at <a href="https://udm2022.org/">UDM</a>.</li>
      </ul>
 </details>
 
 <details>
     <summary><u>Older</u></summary>
      <ul>
-        <li>[2021-12-14] : Matt presents at AGU.</li>
-        <li>[2021-10-22] : Matt presents at the WCE Seminar Series.</li>
-        <li>[2021-10-01] : «Pipedream» published in EMS.</li>
-        <li>[2021-07-21] : Matt interviewed in El Paso Matters.</li>
-        <li>[2021-06-26] : «Observability-based sensor placement» published in WRR.</li>
-        <li>[2021-05-13] : Matt presents at INCOSE.</li>
-        <li>[2021-02-09] : «Multipollutant monitors» published in AMT.</li>
-        <li>[2021-01-21] : Matt presents at EWRE Seminar Series.</li>
+        <li>[2021-12-14] : Matt presents at <a href="https://agu2021fallmeeting-agu.ipostersessions.com/default.aspx?s=F1-C8-0B-47-ED-CA-AA-4A-E8-4E-61-8B-E6-19-33-99">AGU</a>.</li>
+        <li>[2021-10-22] : Matt presents at the <a href="https://www.jsg.utexas.edu/dgs/events/wce-seminar">WCE Seminar Series</a>.</li>
+        <li>[2021-10-01] : <a href="https://www.sciencedirect.com/science/article/pii/S1364815221001638">«Pipedream»</a> published in EMS.</li>
+        <li>[2021-07-21] : Matt interviewed in <a href="https://elpasomatters.org/2021/07/21/stagnant-floodwaters-pose-public-health-problem/">El Paso Matters</a>.</li>
+        <li>[2021-06-26] : <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020WR029551">«Observability-based sensor placement»</a> published in WRR.</li>
+        <li>[2021-05-13] : Matt presents at <a href="https://www.incose.org/">INCOSE</a>.</li>
+        <li>[2021-02-09] : <a href="https://amt.copernicus.org/articles/14/995/2021/">«Multipollutant monitors»</a> published in AMT.</li>
+        <li>[2021-01-21] : Matt presents at <a href="https://cwe.engr.utexas.edu/resources/ewre-seminar/">EWRE Seminar Series</a>.</li>
     </ul>
 </details>
 

@@ -12,7 +12,7 @@ author_profile: false
 
 {% for post in site.software %}
 <div class="page__col-wrap">
-<div class="page__lcol"><img src={{ post.image }}></div>
+    <div class="page__lcol"><a href="https://github.com/{{ post.owner }}/{{ post.repo }}" rel="permalink"><img src={{ post.image }}></a></div>
 <div class="page__rcol">
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}

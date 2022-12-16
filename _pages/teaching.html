@@ -9,7 +9,7 @@ author_profile: false
 
 {% for post in site.teaching reversed %}
 <div class="page__col-wrap">
-    <div class="page__lcol"><img src={{post.abstract_art}}></div>
+    <div class="page__lcol"><a href="{{ post.permalink }}"><img src={{post.abstract_art}}></a></div>
     <div class="page__rcol">
         <h2>
             <a href="{{ post.permalink }}">{{ post.title }}</a>

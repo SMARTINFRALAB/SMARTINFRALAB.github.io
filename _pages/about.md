@@ -128,6 +128,8 @@ redirect_from:
 <details open>
     <summary><u>Recent</u></summary>
      <ul>
+         <li>[2023-03-08] : Jeil's MPC paper accepted at <a href="https://www.sciencedirect.com/science/article/pii/S0043135423002609">Water Research</a></li>
+         <li>[2023-03-05] : Jimmy presents at <a href="https://liberalarts.utexas.edu/events/planet-texas-2050-symposium-resilience-research-in-action-3">PT2050 research symposium</a></li>
          <li>[2022-12-12] : Yeji presents at <a href="https://agu2022fallmeeting-agu.ipostersessions.com/default.aspx?s=EE-07-F8-EC-79-06-9C-43-B1-81-C4-E7-B2-3B-50-DB">AGU</a>.</li>
          <li>[2022-08-26] : Matt presents at <a href="https://www.tfma.org/mpage/2022-summit">TFMA</a>.</li>
          <li>[2022-06-08] : Matt and Jeil present at <a href="https://www.ewricongress.org/">EWRI</a>.</li>

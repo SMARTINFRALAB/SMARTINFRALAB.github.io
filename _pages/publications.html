@@ -53,7 +53,7 @@ author_profile: false
 
 
 <h2><i class="fas fa-users" aria-hidden="true"></i>&nbsp; &nbsp;Conference proceedings</h2>
-<ol>
+<ol reversed>
 {% for post in site.publications reversed %}
   {% if post.type == 'refereed-conference-proceeding' %}
   <li class="publication__li"><a href="{{post.permalink}}">{{post.citation}}</a></li>
@@ -62,7 +62,7 @@ author_profile: false
 </ol>
 
 <h2><i class="fas fa-microphone" aria-hidden="true"></i>&nbsp; &nbsp;Invited talks</h2>
-<ol>
+<ol reversed>
 {% for post in site.publications reversed %}
   {% if post.type == 'invited-talk' %}
   <li class="publication__li"><a href="{{post.permalink}}">{{post.citation}}</a></li>
@@ -71,7 +71,7 @@ author_profile: false
 </ol>
 
 <h2><i class="fas fa-flask" aria-hidden="true"></i>&nbsp; &nbsp;Technical reports</h2>
-<ol>
+<ol reversed>
 {% for post in site.publications reversed %}
   {% if post.type == 'tech_report' %}
   <li class="publication__li"><a href="{{post.permalink}}">{{post.citation}}</a></li>
@@ -80,7 +80,7 @@ author_profile: false
 </ol>
 
 <h2><i class="fas fa-graduation-cap" aria-hidden="true"></i>&nbsp; &nbsp;Theses</h2>
-<ol>
+<ol reversed>
 {% for post in site.publications reversed %}
   {% if post.type == 'thesis' %}
   <li class="publication__li"><a href="{{post.permalink}}">{{post.citation}}</a></li>
@@ -89,7 +89,7 @@ author_profile: false
 </ol>
 
 <h2><i class="fas fa-newspaper" aria-hidden="true"></i>&nbsp; &nbsp;Media</h2>
-<ol>
+<ol reversed>
 {% for post in site.publications reversed %}
   {% if post.type == 'media' %}
   <li class="publication__li"><a href="{{post.permalink}}">{{post.citation}}</a></li>

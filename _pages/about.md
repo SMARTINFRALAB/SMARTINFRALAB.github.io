@@ -130,7 +130,7 @@ redirect_from:
      <ul>
          <li>[2023-06-14] : Matt attends <a href="https://www.linkedin.com/posts/venkatesh-merwade-255633b9_the-cybertraining-workshop-led-by-venkatesh-activity-7075566765581205504-ycIa">NSF Cybertraining Workshop</a></li>
          <li>[2023-06-11] : Jeil attends <a href="https://www.cuahsi.org/summer-institute">CUASHI Summer Institute</a></li>
-         <li>[2023-05-16] : Yeji, Jeil, and Min-Gyu pass their qualifying exams!</a></li>
+         <li>[2023-05-16] : Yeji, Jeil, and Min-Gyu pass their qualifying exams!</li>
          <li>[2023-03-27] : Matt interviewed in <a href="https://thedailytexan.com/2023/03/27/ut-researchers-develop-smart-stormwater-basin-to-prevent-flooding-protect-water-quality/">The Daily Texan</a></li>
          <li>[2023-03-08] : Jeil's MPC paper accepted at <a href="https://www.sciencedirect.com/science/article/pii/S0043135423002609">Water Research</a></li>
          <li>[2023-03-05] : Jimmy presents at <a href="https://liberalarts.utexas.edu/events/planet-texas-2050-symposium-resilience-research-in-action-3">PT2050 research symposium</a></li>

@@ -128,6 +128,9 @@ redirect_from:
 <details open>
     <summary><u>Recent</u></summary>
      <ul>
+         <li>[2023-06-14] : Matt attends <a href="https://www.linkedin.com/posts/venkatesh-merwade-255633b9_the-cybertraining-workshop-led-by-venkatesh-activity-7075566765581205504-ycIa">NSF Cybertraining Workshop</a></li>
+         <li>[2023-06-11] : Jeil attends <a href="https://www.cuahsi.org/summer-institute">CUASHI Summer Institute</a></li>
+         <li>[2023-05-16] : Yeji, Jeil, and Min-Gyu pass their qualifying exams!</a></li>
          <li>[2023-03-27] : Matt interviewed in <a href="https://thedailytexan.com/2023/03/27/ut-researchers-develop-smart-stormwater-basin-to-prevent-flooding-protect-water-quality/">The Daily Texan</a></li>
          <li>[2023-03-08] : Jeil's MPC paper accepted at <a href="https://www.sciencedirect.com/science/article/pii/S0043135423002609">Water Research</a></li>
          <li>[2023-03-05] : Jimmy presents at <a href="https://liberalarts.utexas.edu/events/planet-texas-2050-symposium-resilience-research-in-action-3">PT2050 research symposium</a></li>
@@ -135,15 +138,15 @@ redirect_from:
          <li>[2022-08-26] : Matt presents at <a href="https://www.tfma.org/mpage/2022-summit">TFMA</a>.</li>
          <li>[2022-06-08] : Matt and Jeil present at <a href="https://www.ewricongress.org/">EWRI</a>.</li>
          <li>[2022-05-09] : Matt and Jeil present at <a href="https://www.awra.org/AWRA/Members/Events_and_Education/Events/2022_GIS_Conference/2022_GIS_Conference.aspx">AWRA</a>.</li>
-         <li>[2022-04-13] : Yeji presents at <a href="https://bridgingbarriers.utexas.edu/events/planet-texas-2050-research-symposium-week-resilience-action">PT2050 research symposium</a>.</li>
-         <li>[2022-02-11] : Matt interviewed in <a href="https://www.estormwater.com/software/software-modeling/article/10983678/new-real-time-digital-twin-can-forecast-storm-water-overflows">Stormwater Solutions</a>.</li>
-        <li>[2022-01-10] : Matt and Jeil present at <a href="https://udm2022.org/">UDM</a>.</li>
      </ul>
 </details>
 
 <details>
     <summary><u>Older</u></summary>
      <ul>
+         <li>[2022-04-13] : Yeji presents at <a href="https://bridgingbarriers.utexas.edu/events/planet-texas-2050-research-symposium-week-resilience-action">PT2050 research symposium</a>.</li>
+         <li>[2022-02-11] : Matt interviewed in <a href="https://www.estormwater.com/software/software-modeling/article/10983678/new-real-time-digital-twin-can-forecast-storm-water-overflows">Stormwater Solutions</a>.</li>
+        <li>[2022-01-10] : Matt and Jeil present at <a href="https://udm2022.org/">UDM</a>.</li>
         <li>[2021-12-14] : Matt presents at <a href="https://agu2021fallmeeting-agu.ipostersessions.com/default.aspx?s=F1-C8-0B-47-ED-CA-AA-4A-E8-4E-61-8B-E6-19-33-99">AGU</a>.</li>
         <li>[2021-10-22] : Matt presents at the <a href="https://www.jsg.utexas.edu/dgs/events/wce-seminar">WCE Seminar Series</a>.</li>
         <li>[2021-10-01] : <a href="https://www.sciencedirect.com/science/article/pii/S1364815221001638">«Pipedream»</a> published in EMS.</li>

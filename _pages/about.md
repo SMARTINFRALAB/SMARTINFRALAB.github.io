@@ -128,6 +128,7 @@ redirect_from:
 <details open>
     <summary><u>Recent</u></summary>
      <ul>
+         <li>[2023-07-03] : Matt, Yeji, and Min-Gyu present at <a href="https://www.novatech2023.org/en">Novatech 2023</a></li>
          <li>[2023-06-14] : Matt attends <a href="https://www.linkedin.com/posts/venkatesh-merwade-255633b9_the-cybertraining-workshop-led-by-venkatesh-activity-7075566765581205504-ycIa">NSF Cybertraining Workshop</a></li>
          <li>[2023-06-11] : Jeil attends <a href="https://www.cuahsi.org/summer-institute">CUASHI Summer Institute</a></li>
          <li>[2023-05-16] : Yeji, Jeil, and Min-Gyu pass their qualifying exams!</li>

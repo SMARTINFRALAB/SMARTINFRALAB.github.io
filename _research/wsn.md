@@ -9,7 +9,7 @@ permalink: /research/wireless-sensor-networks
 <ul>
 {% for post in site.publications reversed %}
   {% for tag in post.tags %}
-    {% if tag == 'wsns' %}
+    {% if tag == 'wireless-sensor-networks' %}
       <li class="publication__li"><a href="{{post.permalink}}">{{post.citation}}</a></li>
       {% break %}
     {% endif %}

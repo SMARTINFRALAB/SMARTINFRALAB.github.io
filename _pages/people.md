@@ -55,6 +55,19 @@ author_profile: false
 </div>
 </div>
 
+<div class="page__col-wrap">
+<div class="people__lcol"><div class="people__avatar"><img src="https://mdbartos.s3.us-east-2.amazonaws.com/img/Khwanjira_Phumphid.jpeg"></div></div>
+<div class="people__rcol"><h1>Khwanjira Phumphid</h1> <b>MS student, Department of Civil, Architectural and Environmental Engineering</b> <br> <br> B.S. Civil Engineering, University of Virginia, 2022 
+</div>
+</div>
+
+
+<div class="page__col-wrap">
+<div class="people__lcol"><div class="people__avatar"><img src="https://mdbartos.s3.us-east-2.amazonaws.com/img/Eric_Jenkins.jpeg"></div></div>
+<div class="people__rcol"><h1>Eric Jenkins</h1> <b>MS student, Department of Civil, Architectural and Environmental Engineering</b> <br> <br> B.S. Civil Engineering, The University of Texas at Austin, 2023
+</div>
+</div>
+
 <br>
 
 <div class="page__col-wrap"></div>

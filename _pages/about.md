@@ -128,6 +128,7 @@ redirect_from:
 <details open>
     <summary><u>Recent</u></summary>
      <ul>
+         <li>[2023-11-03] :: Min-Gyu's <a href="https://doi.org/10.1016/j.envsoft.2023.105868">「PipeDream-WQ」</a> paper accepted at EMS &nbsp;📔</li>
          <li>[2023-09-27] :: <a href="https://future-water.github.io/publication/2023-09-24-state">Best poster</a> at Watermatex 2023 🥇</li>
          <li>[2023-09-07] :: <a href="https://future-water.github.io/publication/2023-09-04-state">Best paper presentation</a> at CCWI 2023 🏆</li>
          <li>[2023-07-03] :: Matt, Yeji, and Min-Gyu present at <a href="https://www.novatech2023.org/en">Novatech 2023</a> &nbsp;🇫🇷</li>
@@ -135,7 +136,7 @@ redirect_from:
          <li>[2023-06-11] :: Jeil attends <a href="https://www.cuahsi.org/summer-institute">CUASHI Summer Institute</a> &nbsp;🏫</li>
          <li>[2023-05-16] :: Yeji, Jeil, and Min-Gyu pass their qualifying exams! &nbsp;🎉</li>
          <li>[2023-03-27] :: Matt interviewed in <a href="https://thedailytexan.com/2023/03/27/ut-researchers-develop-smart-stormwater-basin-to-prevent-flooding-protect-water-quality/">The Daily Texan</a> &nbsp;🤠</li>
-         <li>[2023-03-08] :: Jeil's MPC paper accepted at <a href="https://www.sciencedirect.com/science/article/pii/S0043135423002609">Water Research</a> &nbsp;📔</li>
+         <li>[2023-03-08] :: Jeil's <a href="https://doi.org/10.1016/j.watres.2023.119825">MPC paper</a> accepted at Water Research &nbsp;📔</li>
          <li>[2023-03-05] :: Jimmy presents at <a href="https://liberalarts.utexas.edu/events/planet-texas-2050-symposium-resilience-research-in-action-3">PT2050 research symposium</a> &nbsp;🎤</li>
          <li>[2022-12-12] :: Yeji presents at <a href="https://agu2022fallmeeting-agu.ipostersessions.com/default.aspx?s=EE-07-F8-EC-79-06-9C-43-B1-81-C4-E7-B2-3B-50-DB">AGU</a> &nbsp;🌎</li>
          <li>[2022-08-26] :: Matt presents at <a href="https://www.tfma.org/mpage/2022-summit">TFMA</a> &nbsp;🌊</li>
@@ -152,11 +153,11 @@ redirect_from:
         <li>[2022-01-10] :: Matt and Jeil present at <a href="https://udm2022.org/">UDM</a> 🚰</li>
         <li>[2021-12-14] :: Matt presents at <a href="https://agu2021fallmeeting-agu.ipostersessions.com/default.aspx?s=F1-C8-0B-47-ED-CA-AA-4A-E8-4E-61-8B-E6-19-33-99">AGU</a> 🌎</li>
         <li>[2021-10-22] :: Matt presents at the <a href="https://www.jsg.utexas.edu/dgs/events/wce-seminar">WCE Seminar Series</a> &nbsp;🎤</li>
-        <li>[2021-10-01] :: <a href="https://www.sciencedirect.com/science/article/pii/S1364815221001638">«Pipedream»</a> published in EMS &nbsp;📔</li>
+        <li>[2021-10-01] :: <a href="https://www.sciencedirect.com/science/article/pii/S1364815221001638">「PipeDream」</a> published in EMS &nbsp;📔</li>
         <li>[2021-07-21] :: Matt interviewed in <a href="https://elpasomatters.org/2021/07/21/stagnant-floodwaters-pose-public-health-problem/">El Paso Matters</a> &nbsp;🤠</li>
-        <li>[2021-06-26] :: <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020WR029551">«Observability-based sensor placement»</a> published in WRR &nbsp;📔</li>
+        <li>[2021-06-26] :: <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020WR029551">「Observability-based sensor placement」</a> published in WRR &nbsp;📔</li>
         <li>[2021-05-13] :: Matt presents at <a href="https://www.incose.org/">INCOSE</a> &nbsp;🚰</li>
-        <li>[2021-02-09] :: <a href="https://amt.copernicus.org/articles/14/995/2021/">«Multipollutant monitors»</a> published in AMT &nbsp;📔</li>
+        <li>[2021-02-09] :: <a href="https://amt.copernicus.org/articles/14/995/2021/">「Multipollutant monitors」</a> published in AMT &nbsp;📔</li>
         <li>[2021-01-21] :: Matt presents at <a href="https://cwe.engr.utexas.edu/resources/ewre-seminar/">EWRE Seminar Series</a> &nbsp;🚰</li>
     </ul>
 </details>

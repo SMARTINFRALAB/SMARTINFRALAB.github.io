@@ -15,6 +15,12 @@ author_profile: false
             <a href="{{ post.permalink }}">{{ post.title }}</a>
         </h2>
         <div class="journal__box">{{ post.excerpt}}</div>
+        {% if post.recordings %}
+            <div class="page__col-wrap">
+                <div class="page__lcol"><i class="fab fa-youtube" aria-hidden="true"></i> &nbsp; <a href="{{ post.recordings }}">Recordings</a></div>
+                <div class="page__rcol"><i class="fas fa-file-alt" aria-hidden="true"></i> &nbsp; <a href="{{ post.course_packet }}">Course Packet</a></div>
+            </div>
+        {% endif %}
     </div>
 </div>
 {% endfor %}

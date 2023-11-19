@@ -63,6 +63,17 @@ p {
   margin-bottom: 1.3em;
 }
 
+::-moz-selection {
+  background-color: turquoise;
+  color: #000;
+}
+
+
+::selection {
+  background-color: turquoise;
+  color: #000;
+}
+
 u,
 ins {
   text-decoration: none;
@@ -118,7 +129,10 @@ a {
     @extend %tab-focus;
   }
 
-  &:hover,
+  &:hover {
+    color: #40e0d0;
+  }
+
   &:active {
     outline: 0;
   }

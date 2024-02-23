@@ -128,6 +128,7 @@ redirect_from:
 <details open>
     <summary><u>Recent</u></summary>
      <ul>
+         <li>[2024-01-04] :: Matt wins the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2340176&HistoricalAwards=false">NSF CAREER Award</a> &nbsp;🏅👨‍🏫</li>
          <li>[2023-11-03] :: Min-Gyu's <a href="https://doi.org/10.1016/j.envsoft.2023.105868">「PipeDream-WQ」</a> paper accepted at EMS &nbsp;🦠 📔</li>
          <li>[2023-09-27] :: <a href="https://future-water.github.io/publication/2023-09-24-state">Best poster</a> at Watermatex 2023 🥇 🪧</li>
          <li>[2023-09-07] :: <a href="https://future-water.github.io/publication/2023-09-04-state">Best paper presentation</a> at CCWI 2023 🏆 📜</li>

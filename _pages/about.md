@@ -128,6 +128,9 @@ redirect_from:
 <details open>
     <summary><u>Recent</u></summary>
      <ul>
+         <li>[2024-06-24] :: Yeji and Min-Gyu present at <a href="https://google.com">iEMS 2024</a> &nbsp;💻🎤</li>
+         <li>[2024-06-10] :: Aditi's paper published in <a href="https://google.com">STBE</a> &nbsp;🛁📔</li>
+         <li>[2024-06-09] :: Matt, Jimmy, and Jeil present at <a href="https://google.com">ICUD 2024</a> &nbsp;🧇🇳🇱</li>
          <li>[2024-01-04] :: Matt wins the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2340176&HistoricalAwards=false">NSF CAREER Award</a> &nbsp;🏅👨‍🏫</li>
          <li>[2023-11-03] :: Min-Gyu's <a href="https://doi.org/10.1016/j.envsoft.2023.105868">「PipeDream-WQ」</a> paper accepted at EMS &nbsp;🦠 📔</li>
          <li>[2023-09-27] :: <a href="https://future-water.github.io/publication/2023-09-24-state">Best poster</a> at Watermatex 2023 🥇 🪧</li>
@@ -136,16 +139,16 @@ redirect_from:
          <li>[2023-06-14] :: Matt attends <a href="https://www.linkedin.com/posts/venkatesh-merwade-255633b9_the-cybertraining-workshop-led-by-venkatesh-activity-7075566765581205504-ycIa">NSF Cybertraining Workshop</a> &nbsp;🧑‍💻 🦾</li>
          <li>[2023-06-11] :: Jeil attends <a href="https://www.cuahsi.org/summer-institute">CUASHI Summer Institute</a> &nbsp;🏫 🎓</li>
          <li>[2023-05-16] :: Yeji, Jeil, and Min-Gyu pass their qualifying exams! &nbsp;🎉 🎊 🥂</li>
-         <li>[2023-03-27] :: Matt interviewed in <a href="https://thedailytexan.com/2023/03/27/ut-researchers-develop-smart-stormwater-basin-to-prevent-flooding-protect-water-quality/">The Daily Texan</a> &nbsp;🤠 📰</li>
-         <li>[2023-03-08] :: Jeil's <a href="https://doi.org/10.1016/j.watres.2023.119825">MPC paper</a> accepted at Water Research &nbsp;📈 📔</li>
-         <li>[2023-03-05] :: Jimmy presents at <a href="https://liberalarts.utexas.edu/events/planet-texas-2050-symposium-resilience-research-in-action-3">PT2050 research symposium</a> &nbsp;🎤 🤠</li>
-         <li>[2022-12-12] :: Yeji presents at <a href="https://agu2022fallmeeting-agu.ipostersessions.com/default.aspx?s=EE-07-F8-EC-79-06-9C-43-B1-81-C4-E7-B2-3B-50-DB">AGU</a> &nbsp;🎤 🌎</li>
      </ul>
 </details>
 
 <details>
     <summary><u>Older</u></summary>
      <ul>
+         <li>[2023-03-27] :: Matt interviewed in <a href="https://thedailytexan.com/2023/03/27/ut-researchers-develop-smart-stormwater-basin-to-prevent-flooding-protect-water-quality/">The Daily Texan</a> &nbsp;🤠 📰</li>
+         <li>[2023-03-08] :: Jeil's <a href="https://doi.org/10.1016/j.watres.2023.119825">MPC paper</a> accepted at Water Research &nbsp;📈 📔</li>
+         <li>[2023-03-05] :: Jimmy presents at <a href="https://liberalarts.utexas.edu/events/planet-texas-2050-symposium-resilience-research-in-action-3">PT2050 research symposium</a> &nbsp;🎤 🤠</li>
+         <li>[2022-12-12] :: Yeji presents at <a href="https://agu2022fallmeeting-agu.ipostersessions.com/default.aspx?s=EE-07-F8-EC-79-06-9C-43-B1-81-C4-E7-B2-3B-50-DB">AGU</a> &nbsp;🎤 🌎</li>
          <li>[2022-08-26] :: Matt presents at <a href="https://www.tfma.org/mpage/2022-summit">TFMA</a> &nbsp;🌊</li>
          <li>[2022-06-08] :: Matt and Jeil present at <a href="https://www.ewricongress.org/">EWRI</a> &nbsp;🚰</li>
          <li>[2022-05-09] :: Matt and Jeil present at <a href="https://www.awra.org/AWRA/Members/Events_and_Education/Events/2022_GIS_Conference/2022_GIS_Conference.aspx">AWRA</a> &nbsp;🗺️</li>

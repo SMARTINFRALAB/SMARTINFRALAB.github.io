@@ -44,6 +44,17 @@ Our goal is to build <i>intelligent water systems</i> that use real-time sensing
 <h1>Projects</h1>
 
 <div class="page__col-wrap">
+<div class="page__lcol"><img src="https://mdbartos.s3.us-east-2.amazonaws.com/img/nsf_logo_stacked_lockup_white.svg"></div>
+<div class="page__rcol"><h2>CAREER: Towards watersheds as water treatment plants through advances in distributed sensing and control</h2> This Faculty Early Career Development (CAREER) award supports research that will explore the potential for real-time control of hydraulic infrastructure to reduce nutrient pollution in river networks. This project will investigate how real-time control of hydraulic infrastructure like dams can treat nutrient pollution by emulating processes from wastewater treatment plants at the watershed scale. This new approach has the potential to substantially reduce nutrient pollution impacts while obviating the need for expensive infrastructure expansion projects. These research efforts will be complemented with an educational plan designed to promote active learning of surface water quality concepts through the development of a new computer simulation game targeted at students of all levels.
+
+<br><br>
+
+Funded by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2340176&HistoricalAwards=false">National Science Foundation Award #2340176</a> (2024-2029).
+</div>
+</div>
+
+
+<div class="page__col-wrap">
 <div class="page__lcol"><img src="https://mdbartos.s3.us-east-2.amazonaws.com/img/austin_water_logo.png"></div>
 <div class="page__rcol"><h2>Investigation into carbon, phosphorus, and nitrogen loadings and effects of nitrogen-reducing best management practices for on-site sewage facilities in the City of Austin</h2> The goal of this project is to monitor nitrogen, phosphorus, and carbon loads from on-site sewage facilities (OSSFs) in the City of Austin, TX, and to use these measurements to develop approval processes for OSSF treatment units.
 

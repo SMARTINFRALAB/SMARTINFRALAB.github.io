@@ -128,9 +128,9 @@ redirect_from:
 <details open>
     <summary><u>Recent</u></summary>
      <ul>
-         <li>[2024-06-24] :: Yeji and Min-Gyu present at <a href="https://google.com">iEMS 2024</a> &nbsp;💻🎤</li>
-         <li>[2024-06-10] :: Aditi's paper published in <a href="https://google.com">STBE</a> &nbsp;🛁📔</li>
-         <li>[2024-06-09] :: Matt, Jimmy, and Jeil present at <a href="https://google.com">ICUD 2024</a> &nbsp;🧇🇳🇱</li>
+         <li>[2024-06-24] :: Yeji and Min-Gyu present at <a href="https://conference.iemss.org/">iEMS 2024</a> &nbsp;💻🎤</li>
+         <li>[2024-06-10] :: Aditi's paper published in <a href="https://www.tandfonline.com/doi/full/10.1080/23744731.2024.2351309">STBE</a> &nbsp;🛁📔</li>
+         <li>[2024-06-09] :: Matt, Jimmy, and Jeil present at <a href="https://icud2024.org/">ICUD 2024</a> &nbsp;🧇🇳🇱</li>
          <li>[2024-01-04] :: Matt wins the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2340176&HistoricalAwards=false">NSF CAREER Award</a> &nbsp;🏅👨‍🏫</li>
          <li>[2023-11-03] :: Min-Gyu's <a href="https://doi.org/10.1016/j.envsoft.2023.105868">「PipeDream-WQ」</a> paper accepted at EMS &nbsp;🦠 📔</li>
          <li>[2023-09-27] :: <a href="https://future-water.github.io/publication/2023-09-24-state">Best poster</a> at Watermatex 2023 🥇 🪧</li>

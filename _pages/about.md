@@ -128,6 +128,7 @@ redirect_from:
 <details open>
     <summary><u>Recent</u></summary>
      <ul>
+         <li>[2024-07-31] :: <a href="https://doi.org/10.1016/j.watres.2024.122201">「Online state estimation in WDSs」</a> published in Water Research &nbsp;🚰📔</li>
          <li>[2024-06-24] :: Yeji and Min-Gyu present at <a href="https://conference.iemss.org/">iEMS 2024</a> &nbsp;💻🎤</li>
          <li>[2024-06-10] :: Aditi's paper published in <a href="https://www.tandfonline.com/doi/full/10.1080/23744731.2024.2351309">STBE</a> &nbsp;🛁📔</li>
          <li>[2024-06-09] :: Matt, Jimmy, and Jeil present at <a href="https://icud2024.org/">ICUD 2024</a> &nbsp;🧇🇳🇱</li>

@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Future Water Systems Lab"
+title                    : "Smart Infra Lab"
 title_separator          : "-"
-name                     : &name "Future Water Systems Lab"
+name                     : &name "Smart Infra Lab"
 description              : &description "..."
 url                      : https://future-water.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Future Water Systems Lab"
+  name             : "Smart Infra Lab"
   avatar           : "logo-simple.png"
   bio              : "Building the next generation of intelligent water systems"
   location         : 

@@ -8,7 +8,7 @@ author_profile: false
 Our goal is to build <i>intelligent water systems</i> that use real-time sensing and control to solve modern water challenges.
 
 <div class="page__col-wrap">
-<div class="page__lcol"><img src="/images/JANET.png"></div>
+<div class="page__lcol"><img src="/images/JANET_NEW_WHITE.png"></div>
 <div class="page__rcol"><h2><a href="/research/wireless-sensor-networks">Wireless sensor networks for water infrastructure</a></h2> New technologies are enabling real-time supervision and control of previously static water infrastructure. We are designing a new generation of cyber-physical systems that incorporate low-power embedded electronics, wireless communications, dynamic controls, and web services to transform passive water systems into active ones.
 </div>
 </div>

@@ -480,15 +480,18 @@
 }
 
 .people__avatar {
-    display: block;
-    width: auto;
-    height: auto;
+  display: block;
+  width: 150px; /* 원하는 고정된 너비 */
+  height: 150px; /* 원하는 고정된 높이 */
+  overflow: hidden; /* 원 밖으로 넘치는 부분 숨기기 */
+  border-radius: 50%; /* 원 모양으로 만들기 */
+  border: 1px solid $border-color;
 
-    img {
-        border-radius: 50%;
-        padding: 5px;
-        border: 1px solid $border-color;
-    }
+  img {
+      width: 100%; /* 부모의 크기에 맞춰 이미지 확대/축소 */
+      height: 100%; /* 부모의 크기에 맞춰 이미지 확대/축소 */
+      object-fit: cover; /* 이미지가 원에 꽉 차도록 */
+  }
 }
 
 .people__lcol {

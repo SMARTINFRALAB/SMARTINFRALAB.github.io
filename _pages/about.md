@@ -65,7 +65,7 @@ redirect_from:
 <h1>Links</h1>
 
 <ul style="list-style-type:none;">
-<li><i class="fas fa-graduation-cap" aria-hidden="true"></i> &nbsp; <a href="https://scholar.google.com/citations?user=RmuqfEAAAAAJ&hl=en">Google Scholar</a></li>
+<li><i class="fas fa-graduation-cap" aria-hidden="true"></i> &nbsp; <a href="https://scholar.google.com/citations?user=Ev80LNcAAAAJ">Google Scholar</a></li>
 <li><i class="fab fa-github" aria-hidden="true"></i> &nbsp; <a href="https://github.com/future-water">Github</a></li>
 <li><i class="fab fa-youtube" aria-hidden="true"></i> &nbsp; <a href="https://www.youtube.com/playlist?list=PLHovUGJUgy1DvJoaJuBWdF_maE1-YzOfm">Recordings for CE 397: Control Theory</a></li>
 <li><i class="fab fa-youtube" aria-hidden="true"></i> &nbsp; <a href="https://www.youtube.com/playlist?list=PLHovUGJUgy1CGUAPj9UwRGqs83jyNZ73l">Recordings for CE 374U: Urban Stormwater</a> </li>
